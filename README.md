@@ -2,13 +2,14 @@
 human resources management service, kodlama.io Java Camp Assignment
 
 # Gun7 Ödev1
-Sisteminize Swagger desteği getiriniz.
+
+ Sisteminize Swagger desteği getiriniz.
 
 
-# Gun6 Ödev
+# Gun6 Ödev3
 
-Spring Boot ile hrms isimli projenizi oluşturunuz.
+1. Spring Boot ile hrms isimli projenizi oluşturunuz.
 
-Katmanları yazınız.
+2. Katmanları yazınız.
 
-Sistemde bulunan genel iş pozisyonlarını listeleyecek api'yi yazınız
+3. Sistemde bulunan genel iş pozisyonlarını listeleyecek api'yi yazınız
