@@ -22,7 +22,8 @@ public class HrmsnewApplication {
         return new Docket(DocumentationType.SWAGGER_2)  
           .select()                                  
           .apis(RequestHandlerSelectors.basePackage("kodlamaodev.hrmsnew"))              
-          .build();                                           
+          .build();
+        
     }
 
 }
